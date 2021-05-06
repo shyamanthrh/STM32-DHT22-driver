@@ -1,0 +1,6 @@
+dht22.c:12:6:delay	16	static
+dht22.c:19:6:Set_Pin_Output	48	static
+dht22.c:28:6:Set_Pin_Input	48	static
+dht22.c:37:6:DHT22_Start	8	static
+dht22.c:49:9:DHT22_Check_Response	16	static
+dht22.c:66:9:DHT22_Read	16	static
